@@ -1,3 +1,8 @@
+# installable sis files
+!/src/components/qtcomponentsplugin_1_1_unsigned.sis
+!/src/symbian/symbianplugin_1_1_unsigned.sis
+!/src/symbian/extras/symbianextrasplugin_1_1_unsigned.sis
+
 # Windows image file caches
 
 Thumbs.db
