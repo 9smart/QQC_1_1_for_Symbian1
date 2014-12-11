@@ -6,4 +6,4 @@ Open corresponding project files and deploy to your Symbian^1 phones with corres
 src/symbian/symbian.pro       : com.nokia.symbian 1.1
 src/symbian/extras/extras.pro : com.nokia.extras 1.1
 src/components/components.pro : Qt.labs.components 1.1
-*Remember to uninstall the old version of the plugins before install new ones*
+**Remember to uninstall the old version of the plugins before install new ones**
