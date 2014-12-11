@@ -1,3 +1,23 @@
+# Windows image file caches
+
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+
+Desktop.ini
+
+# Recycle Bin used on file shares
+
+$RECYCLE.BIN/
+
+# Windows Installer files
+
+*.cab
+*.msi
+*.msm
+*.msp
+
 # C++ objects and libs
 
 *.slo
@@ -16,17 +36,53 @@
 /.qmake.stash
 *.pro.user
 *.pro.user.*
+*.qbs.user
+*.qbs.user.*
 *.moc
 moc_*.cpp
 qrc_*.cpp
 ui_*.h
 Makefile*
 *-build-*
+.make.cache
 
 # QtCreator
 
 *.autosave
 
-#QtCtreator Qml
+# QtCtreator Qml
+
 *.qmlproject.user
 *.qmlproject.user.*
+
+# Symbian-es
+
+bld.inf
+*.loc
+*.rss
+*_exe.mmp
+*.pkg
+*.sis
+ABLD.BAT
+*.mk
+
+# debian-es
+
+*.changes
+*.deb
+
+# =========================
+# Operating System Files
+# =========================
+
+# OSX
+# =========================
+
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+*.changes
+*.changes
